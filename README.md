@@ -2,7 +2,7 @@
 ## Table Of content
 
 * [Team Members](#team-members)
-* [Avtar](#Display-Avtar)
+* [Avtar](#Avtar)
 * [Purpose](#Goals)
 
 # <a name="team-members"></a>Team Members
@@ -11,4 +11,4 @@
 * *Parminder Kaur"  <1896181>
 
 # Avtar
-## Meaning
+## Goals
