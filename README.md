@@ -2,6 +2,8 @@
 ## Table Of content
 
 * [Team Members](#team-members)
+* [Avtar](#Display-Avtar)
+* [Purpose](#Goals)
 
 # <a name="team-members"></a>Team Members
 * "Varinder Sandhu" <1896305>
