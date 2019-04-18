@@ -11,9 +11,9 @@
 * *Parminder Kaur"  <1896181>
 
 ## Avtar
-### * [image not found](https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.media2.hw-static.com%2Fmedia%2F2016%2F01%2Fjustin-timberlake-wenn-012616.jpg&imgrefurl=http%3A%2F%2Fwww.hollywood.com%2Fcelebrities%2Fcelebrity-side-jobs-you-didnt-know-about-60528249%2F&docid=vbLXbJ2VaK2e5M&tbnid=uyiyve-tuJtfoM%3A&vet=10ahUKEwiRsO7i6dnhAhXlmuAKHVLADOsQMwhqKAAwAA..i&w=1276&h=850&bih=608&biw=1366&q=famous%20celebrities&ved=0ahUKEwiRsO7i6dnhAhXlmuAKHVLADOsQMwhqKAAwAA&iact=mrc&uact=8)
-### * [image not found](https://www.google.ca/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiC3Lrx6dnhAhXGc98KHTZyDQEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.fandango.com%2Fmovie-photos%2Fseptember-celebrity-birthdays-335&psig=AOvVaw1oaL7Uy9BHTcMai87HQ5JP&ust=1555683228550168)
-### * [image not found](https://www.google.ca/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjI6OaA6tnhAhXCm-AKHTQsCckQjRx6BAgBEAU&url=https%3A%2F%2Ffilipinotimes.net%2Fentertainment%2F2017%2F03%2F01%2Ffamous-celebrities-born-with-a-silver-spoon%2F&psig=AOvVaw1oaL7Uy9BHTcMai87HQ5JP&ust=1555683228550168)
+### * [image not found](http://www.media2.hw-static.com/media/2016/01/justin-timberlake-wenn-012616.jpg)
+### * [image not found]http://4.bp.blogspot.com/-X9RDeeSCF7w/VRGbxfTvdXI/AAAAAAAAAHs/YmjHmG-32hw/s1600/the-10-most-talked-about-celebrities-during-the-grammys.jpg
+### * [image not found](
 
 ## Purpose
 ## * " i am the creator"
