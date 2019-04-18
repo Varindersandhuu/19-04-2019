@@ -1,5 +1,5 @@
 # WE RESIST
-## Table Of Content
-### * TEAM
+## Table Of content
+<a name="team-members"></a>Team Members
 # Avtar
 ## Meaning
