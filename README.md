@@ -1,5 +1,9 @@
 # WE RESIST
 ## Table Of content
-<a name="team-members"></a>Team Members
+
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "Varinder Sandhu" <vickysandhu022@gmail.com>
 # Avtar
 ## Meaning
