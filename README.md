@@ -17,6 +17,6 @@
 
 * https://www.google.ca/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjI6OaA6tnhAhXCm-AKHTQsCckQjRx6BAgBEAU&url=https%3A%2F%2Ffilipinotimes.net%2Fentertainment%2F2017%2F03%2F01%2Ffamous-celebrities-born-with-a-silver-spoon%2F&psig=AOvVaw1oaL7Uy9BHTcMai87HQ5JP&ust=1555683228550168
 ## Purpose
-## * " i am the cretor"
+## * " i am the creator"
 ## * " i am the developer"
 ## * " i am the  web designer"
